@@ -1,0 +1,2 @@
+# googletesttask
+Task for solitclouds
